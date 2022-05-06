@@ -1,0 +1,67 @@
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 26px;
+}
+
+h2 {
+  font-weight: bold;
+  padding-bottom: 6px;
+}
+
+h3 {
+  padding-top: 15px;
+  text-align: left;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.navigation {
+  text-align: right;
+  color: white;
+  background-color: #3a3a3a;
+  font-size: 13px;
+  word-spacing: 10px;
+  padding: 14px;
+}
+
+a, a:hover, a:active, a:visited {
+  color: white;
+}
+
+.header {
+  background-color: #aa0000;
+  padding: 15px;
+  font-weight: bold;
+  color: white
+}
+
+
+aside {
+  text-align: left;
+  float: right;
+  width: 20%;
+
+}
+
+.columnpictures {
+  width: 90%;
+  padding-top: 7px;
+  padding-bottom: 20px
+}
+
+p {
+  font-size: 13px;
+  padding-top: 10px;
+  width: 70%;
+}
+
+footer {
+  background-color: rgb(58, 58, 58);
+  color: white;
+  padding: 25px;
+  font-size: 12px;
+}
